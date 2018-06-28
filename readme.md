@@ -1,7 +1,7 @@
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 
-### [Laravel React Infinite Scrolling](https://www.google.com)
+### [Laravel React Infinite Scrolling](https://quantizd.com/implementing-infinite-scroll-in-laravel-and-react/)
 
 #### Instructions
 ```
